@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "types": [
+            "core-js",
+            "node"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "config/webpack.config.ts"
+    ]
+}
